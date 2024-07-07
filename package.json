@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hiveio/hive-js": "^2.0.7"
+  }
+}
